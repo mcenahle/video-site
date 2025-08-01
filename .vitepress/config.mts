@@ -14,6 +14,11 @@ export default defineConfig({
     outline: {
       level: [1, 3], // 显示 h1 到 h3 级别的标题
     },
+
+  editLink: {
+    pattern: 'https://github.com/mcenahle/video-site/edit/main/pages/:path',
+    text: '在 GitHub 上编辑此页'
+  },
     nav: [
       { text: '主页', link: '/' },
       { text: '视频展示', link: '/proj' },
