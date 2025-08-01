@@ -212,3 +212,15 @@ a {
 a:hover {
   color: var(--vp-c-brand-dark);
 }
+
+/* 强力覆盖正文中的链接颜色 */
+.vp-doc a {
+  color: #1e90ff !important;
+  text-decoration: none;
+}
+
+.vp-doc a:hover {
+  color: #ff6347 !important;
+  text-decoration: underline;
+}
+
