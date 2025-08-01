@@ -1,23 +1,22 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
-  lang: "zh-CN",
-  title: "video.mcenahle.org.cn",
-  description: "",
+  lang: 'zh-CN',
+  title: 'video.mcenahle.org.cn',
+  description: '',
   srcDir: 'pages',
   outDir: 'dist',
   ignoreDeadLinks: true,
   cleanUrls: true,
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     outline: {
-      level: [1, 3], // 显示 h1 到 h3 级别的标题
+      level: [1, 3],
     },
     search: {
       provider: 'local',
     }
   }
+})
   externalLinkIcon: true,
 
   lastUpdated: true,
