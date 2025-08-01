@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 来看看 >
-      link: /quick-start/quick-start
+      link: /proj
 
 features:
   - title: 网站已经迁移。
