@@ -2,7 +2,7 @@
 
 从日常生活，发现一些温暖的事情。
 
-剪辑软件：[Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)；[达芬奇](https://www.blackmagicdesign.com/products/davinciresolve)。之后可能会拓展更多。
+剪辑软件：<a href="https://www.adobe.com/products/premiere.html" target="_blank">Adobe Premiere Pro</a>；[达芬奇](https://www.blackmagicdesign.com/products/davinciresolve)。之后可能会拓展更多。
 
 目前已经有6个视频项目，1个正在计划之中。
 
@@ -16,4 +16,4 @@
 |初夏的记忆与天堂|达芬奇|可下载|
 |2025年终影片|——|正在计划|
 
-**提示：**所下载的影片仅供个人学习与交流使用，严禁用于任何商业用途、传播、转载、修改或其他未经授权的用途。继续浏览本站，则视为你已经阅读并同意上述说明。
+**提示** 所下载的影片仅供个人学习与交流使用，严禁用于任何商业用途、传播、转载、修改或其他未经授权的用途。继续浏览本站，则视为你已经阅读并同意上述说明。
