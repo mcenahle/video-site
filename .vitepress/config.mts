@@ -8,7 +8,6 @@ export default defineConfig({
   srcDir: 'pages',
   outDir: 'dist',
   ignoreDeadLinks: true,
-  externalLinkIcon: true,
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
