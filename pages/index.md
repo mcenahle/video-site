@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: 来看看 >
       link: /proj
+    - theme: alt
+      text: View on GitHub
+      link: https://github.com/mcenahle/video-site
 
 features:
   - title: 网站已经迁移。
