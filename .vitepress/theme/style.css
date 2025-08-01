@@ -205,11 +205,10 @@
 }
 
 /* 如果要进一步自定义所有 a 标签的颜色 */
-/* a {
+/* text-decoration: none; */
+a {
   color: var(--vp-c-brand);
-  text-decoration: none;
 }
 a:hover {
   color: var(--vp-c-brand-dark);
-  text-decoration: none;
-} */
+}
