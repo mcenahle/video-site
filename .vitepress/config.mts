@@ -16,7 +16,7 @@ export default defineConfig({
       provider: 'local',
     }
   }
-})
+
   externalLinkIcon: true,
 
   lastUpdated: true,
