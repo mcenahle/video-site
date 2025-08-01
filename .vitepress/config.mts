@@ -29,6 +29,13 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: '视频展示（剪辑软件：DaVinci Resolve）',
+        collapsed: false,
+        items: [
+          { text: '初夏的记忆与天堂', link: '/proj/earlysummer-paradise' }
+        ]
+      },
+      {
         text: '视频展示（剪辑软件：PR）',
         collapsed: false,
         items: [
@@ -37,13 +44,6 @@ export default defineConfig({
           { text: '杨逸 - 鹳羽', link: '/proj/guanyu-yangyi' },
           { text: '挑战通过科目一', link: '/proj/pass-the-subject-1' },
           { text: '2024年终影片', link: '/proj/2024-end-movie' }
-        ]
-      },
-      {
-        text: '视频展示（剪辑软件：DaVinci Resolve）',
-        collapsed: false,
-        items: [
-          { text: '初夏的记忆与天堂', link: '/proj/earlysummer-paradise' }
         ]
       }
     ],
