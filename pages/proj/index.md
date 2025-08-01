@@ -2,7 +2,7 @@
 
 从日常生活，发现一些温暖的事情。
 
-剪辑软件：<a href="https://www.adobe.com/products/premiere.html" target="_blank">Adobe Premiere Pro</a>；[达芬奇](https://www.blackmagicdesign.com/products/davinciresolve)。之后可能会拓展更多。
+剪辑软件：[Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)；[达芬奇](https://www.blackmagicdesign.com/products/davinciresolve)。之后可能会拓展更多。
 
 目前已经有6个视频项目，1个正在计划之中。
 
