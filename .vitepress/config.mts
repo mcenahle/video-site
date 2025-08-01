@@ -22,7 +22,8 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '视频展示', link: '/proj' },
-      { text: '著作权声明', link: '/copyright' }
+      { text: '著作权声明', link: '/copyright' },
+      { text: '现行正式版页面', link: 'https://video.mcenahle.org.cn' }
     ],
 
     sidebar: [
