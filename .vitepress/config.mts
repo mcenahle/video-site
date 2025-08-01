@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "vitepress-template",
-  description: "A starter template for VitePress",
+  title: "video.mcenahle.org.cn",
+  description: "",
   srcDir: 'pages',
   outDir: 'dist',
   ignoreDeadLinks: true,
@@ -58,7 +58,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/TencentEdgeOne/pages-templates/tree/main/examples/vitepress-template' }
+      { icon: 'github', link: 'https://github.com/mcenahle' }
     ]
   }
 })
