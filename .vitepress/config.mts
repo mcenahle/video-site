@@ -16,12 +16,7 @@ export default defineConfig({
     },
   externalLinkIcon: true,
 
-  lastUpdated: {
-      text: '上次更新日期：',
-      formatOptions: {
-        dateStyle: 'full',
-        timeStyle: 'medium'
-    },
+  lastUpdated: true,
 
   editLink: {
     pattern: 'https://github.com/mcenahle/video-site/edit/main/pages/:path',
