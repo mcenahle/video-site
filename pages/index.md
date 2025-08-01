@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "video.mcenahle.org.cn"
-  text: "我是一名视频剪辑爱好者。我正在努力学习 PR 和 DaVinci Resolve 中..."
-  tagline: 我伟大的视频剪辑项目！
+  text: "我伟大的视频剪辑项目！"
+  tagline: 我是一名视频剪辑爱好者。我正在努力学习 PR 和 DaVinci Resolve 中...
   actions:
     - theme: brand
       text: 来看看 >
