@@ -14,6 +14,7 @@ export default defineConfig({
     outline: {
       level: [1, 3], // 显示 h1 到 h3 级别的标题
     },
+  externalLinkIcon: true,
 
   editLink: {
     pattern: 'https://github.com/mcenahle/video-site/edit/main/pages/:path',
