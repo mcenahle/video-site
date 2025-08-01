@@ -15,45 +15,28 @@ export default defineConfig({
       level: [1, 3],    // 显示 h1 到 h3 级别的标题
     },
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Quick Start', link: '/quick-start/quick-start' },
-      { text: 'Examples', link: '/examples/markdown-examples' }
+      { text: '主页', link: '/' },
+      { text: '视频展示', link: '/proj' },
+      { text: '著作权声明', link: '/copyright' }
     ],
 
     sidebar: [
       {
-        text: 'Quick Start',
+        text: '视频展示（剪辑软件：PR）',
         collapsed: true,
         items: [
-          { text: 'Overview', link: '/quick-start/quick-start' },
-          { text: 'Installation', link: '/quick-start/quick-start#installation' },
-          { text: 'Basic Setup', link: '/quick-start/quick-start#basic-setup' },
-          { text: 'Configuration', link: '/quick-start/quick-start#configuration' }
+          { text: '去月球三部曲 - 完结', link: '/proj/end-to-the-moon-series' },
+          { text: '2025.6.23 上海游记影片', link: '/proj/2025.6.23-movie' },
+          { text: '杨逸 - 鹳羽', link: '/proj/guanyu-yangyi' },
+          { text: '挑战通过科目一', link: '/proj/pass-the-subject-1' },
+          { text: '2024年终影片', link: '/proj/2024-end-movie' }
         ]
       },
       {
-        text: 'Advanced',
+        text: '视频展示（剪辑软件：DaVinci Resolve）',
         collapsed: true,
         items: [
-          { text: 'Custom Theme', link: '/advanced/custom-theme' },
-          { text: 'Markdown Extensions', link: '/advanced/markdown-extensions' },
-          { text: 'Code Highlighting', link: '/advanced/code-highlighting' }
-        ]
-      },
-      {
-        text: 'Deployment',
-        collapsed: true,
-        items: [
-          { text: 'Build for Production', link: '/quick-start/quick-start#build-for-production' },
-          { text: 'GitHub Pages', link: '/quick-start/quick-start#deploy-to-github-pages' },
-          { text: 'Netlify', link: '/quick-start/quick-start#netlify-deployment' }
-        ]
-      },
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/examples/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/examples/api-examples' }
+          { text: '初夏的记忆与天堂', link: '/proj/earlysummer-paradise' }
         ]
       }
     ],
