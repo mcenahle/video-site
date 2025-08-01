@@ -200,8 +200,8 @@
 }
 
 :root {
-  --vp-c-brand: #389CFF;         /* 主要链接颜色 */
-  --vp-c-brand-dark: #389CFF;    /* 鼠标悬停时的链接颜色 */
+  --vp-c-brand: #2087E3;         /* 主要链接颜色 */
+  --vp-c-brand-dark: #2087E3;    /* 鼠标悬停时的链接颜色 */
 }
 
 /* 如果要进一步自定义所有 a 标签的颜色 */
@@ -215,11 +215,11 @@ a:hover {
 
 /* 强力覆盖正文中的链接颜色 */
 .vp-doc a {
-  color: #389CFF !important;
+  color: #2087E3 !important;
   text-decoration: underline;
 }
 
 .vp-doc a:hover {
-  color: #389CFF !important;
+  color: #2087E3 !important;
   text-decoration: underline;
 }
