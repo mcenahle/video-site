@@ -12,7 +12,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     outline: {
-      level: [1, 3],    // 显示 h1 到 h3 级别的标题
+      level: [1, 3], // 显示 h1 到 h3 级别的标题
     },
     nav: [
       { text: '主页', link: '/' },
@@ -23,7 +23,7 @@ export default defineConfig({
     sidebar: [
       {
         text: '视频展示（剪辑软件：PR）',
-        collapsed: true,
+        collapsed: false,
         items: [
           { text: '去月球三部曲 - 完结', link: '/proj/end-to-the-moon-series' },
           { text: '2025.6.23 上海游记影片', link: '/proj/2025.6.23-movie' },
@@ -34,7 +34,7 @@ export default defineConfig({
       },
       {
         text: '视频展示（剪辑软件：DaVinci Resolve）',
-        collapsed: true,
+        collapsed: false,
         items: [
           { text: '初夏的记忆与天堂', link: '/proj/earlysummer-paradise' }
         ]
@@ -43,7 +43,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/mcenahle' }
-    ]
+    ],
 
     footer: {
       message: '备案信息：[沪ICP备2025116360号-1](https://beian.miit.gov.cn/) | [沪公网安备31015102000182号](https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31015102000182)',
