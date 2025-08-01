@@ -1,6 +1,8 @@
 # 关于剪辑的视频
 
-从日常生活，发现一些温暖的事情。
+从2024年的暑假开始，到现在熟练使用 PR，一路前行。
+
+pr.mcenahle.org.cn 从2024年12月创立以来，历经2次改变（目前是第3次），最终成为展示剪辑完成视频的站点。
 
 剪辑软件：[Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)；[达芬奇](https://www.blackmagicdesign.com/products/davinciresolve)。之后可能会拓展更多。
 
