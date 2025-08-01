@@ -11,9 +11,8 @@ hero:
       text: 来看看 >
       link: /proj
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/mcenahle/video-site
-
+      text: 著作权声明 >
+      link: /copyright
 features:
   - title: 网站已经迁移。
     details: 由于新视频的制作不再局限于 Premiere Pro，现已将原网址 pr.mcenahle.org.cn 正式更改为 video.mcenahle.org.cn。
