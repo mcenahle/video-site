@@ -8,7 +8,7 @@
 
 2024年12月23日10:00，[我的博客网站](https://blog.mcenahle.sh.cn) 和本站已发布影片预告片。
 
-2024年12月23日19:52，影片说明发布。[查看](https://mp.weixin.qq.com/s/07-SHE-Bz0zF10H-llHVjw)。
+2024年12月23日19:52，影片说明发布。[转到微信公众号文章以查看](https://mp.weixin.qq.com/s/07-SHE-Bz0zF10H-llHVjw)。
 
 ## 下载
 
