@@ -44,5 +44,10 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/mcenahle' }
     ]
+
+    footer: {
+      message: '备案信息：[沪ICP备2025116360号-1](https://beian.miit.gov.cn/) | [沪公网安备31015102000182号](https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31015102000182)',
+      copyright: 'Copyright © 2025 video.mcenahle.org.cn。保留所有权利。'
+    }
   }
 })
