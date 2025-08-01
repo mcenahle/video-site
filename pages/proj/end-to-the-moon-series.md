@@ -11,18 +11,9 @@
 
 <details>
   <summary>When the Game Ends, My Heart Speaks - 去月球三部曲 - 完结</summary>
-
-1. 如果人生最后的愿望，与你的人生经历不一致，那你还愿不愿意给自己“编造一个完美的结局”？
-2. 如果你能改变自己之前的遗憾，以实现更好的现在，甚至未来，那么有朝一日你能穿越回去的话，你会改变之前的自己吗？
-3. 如果你可以选择过这样的人生：这是一段没有任何你缺失的东西的记忆，例如遗憾、病痛、离别等等。但这段记忆，注定是一段归零的记忆模拟。那你会不会选择生活在其中呢？
-
-1. If your final wish in life doesn't align with the life you've lived, would you still choose to give yourself a "perfect ending" that's been made up?
-2. If you had the chance to change your past regrets in order to create a better present — and perhaps a better future — would you, one day, if you could go back in time, choose to change who you once were?
-3. If you could choose to live such a life — a memory with nothing missing, no regrets, no pain, no goodbyes — but this memory is destined to be a simulated one that will eventually reset... would you still choose to live in it?
-
-1. Se il tuo ultimo desiderio nella vita non è coerente con la tua esperienza di vita, sei ancora disposto a "inventare un finale perfetto" per te stesso?
-2. Se riesci a cambiare i tuoi rimpianti precedenti per ottenere un presente e persino un futuro migliori, allora se un giorno puoi tornare indietro, cambierai il tuo sé precedente?
-3. Se potessi scegliere di vivere una vita così — un ricordo in cui non manca nulla: nessun rimpianto, nessun dolore, nessun addio — ma questo ricordo è destinato a essere una simulazione che alla fine si azzererà... sceglieresti comunque di viverci dentro?
+  1. 如果人生最后的愿望，与你的人生经历不一致，那你还愿不愿意给自己“编造一个完美的结局”？
+  2. 如果你能改变自己之前的遗憾，以实现更好的现在，甚至未来，那么有朝一日你能穿越回去的话，你会改变之前的自己吗？
+  3. 如果你可以选择过这样的人生：这是一段没有任何你缺失的东西的记忆，例如遗憾、病痛、离别等等。但这段记忆，注定是一段归零的记忆模拟。那你会不会选择生活在其中呢？
 </details>
 
 
