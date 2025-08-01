@@ -6,6 +6,6 @@
 
 本站视频的使用需遵循以下条款：所下载的影片仅供个人学习与交流使用，严禁用于任何商业用途、传播、转载、修改或其他未经授权的用途。
 
-部分图标来自 [Yesicon](https://yesicon.app)，基于 [MIT 许可证](https://mit-license.org) 开源发布。
+本站标签页图标来自 [Yesicon](https://yesicon.app)。
 
 如有版权问题，我会尽快处理。
