@@ -30,26 +30,38 @@ export default defineConfig({
       { text: '现行正式版页面', link: 'https://video.mcenahle.org.cn' }
     ],
 
-    sidebar: [
-      {
-        text: '视频展示（剪辑软件：DaVinci Resolve）',
-        collapsed: false,
-        items: [
-          { text: '初夏的记忆与天堂', link: '/proj/earlysummer-paradise' }
-        ]
-      },
-      {
-        text: '视频展示（剪辑软件：PR）',
-        collapsed: false,
-        items: [
-          { text: '去月球三部曲 - 完结', link: '/proj/end-to-the-moon-series' },
-          { text: '2025.6.23 上海游记影片', link: '/proj/2025.6.23-movie' },
-          { text: '杨逸 - 鹳羽', link: '/proj/guanyu-yangyi' },
-          { text: '挑战通过科目一', link: '/proj/pass-the-subject-1' },
-          { text: '2024年终影片', link: '/proj/2024-end-movie' }
-        ]
-      }
-    ],
+    sidebar: {
+  '/proj/': [
+    {
+      text: '视频展示（剪辑软件：DaVinci Resolve）',
+      collapsed: false,
+      items: [
+        { text: '初夏的记忆与天堂', link: '/proj/earlysummer-paradise' }
+      ]
+    },
+    {
+      text: '视频展示（剪辑软件：PR）',
+      collapsed: false,
+      items: [
+        { text: '去月球三部曲 - 完结', link: '/proj/end-to-the-moon-series' },
+        { text: '2025.6.23 上海游记影片', link: '/proj/2025.6.23-movie' },
+        { text: '杨逸 - 鹳羽', link: '/proj/guanyu-yangyi' },
+        { text: '挑战通过科目一', link: '/proj/pass-the-subject-1' },
+        { text: '2024年终影片', link: '/proj/2024-end-movie' }
+      ]
+    }
+  ],
+
+  '/copyright/': [
+    {
+      text: '著作权声明',
+      items: [
+        { text: '查看声明内容', link: '/copyright/' }
+      ]
+    }
+  ]
+}
+
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/mcenahle' }
