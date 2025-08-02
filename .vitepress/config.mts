@@ -9,20 +9,22 @@ export default defineConfig({
   outDir: 'dist',
   ignoreDeadLinks: true,
   cleanUrls: true,
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     outline: {
       level: [1, 3], // 显示 h1 到 h3 级别的标题
     },
-  externalLinkIcon: true,
-  lastUpdated: true,
-  head: [
-    ['link', { rel: 'icon', href: 'https://www.mcenahle.org.cn/video-org-cn-favicon.ico' }]
-  ],
-  editLink: {
-    pattern: 'https://github.com/mcenahle/video-site/edit/main/pages/:path',
-    text: '在 GitHub 上编辑此页'
-  },
+    externalLinkIcon: true,
+    lastUpdated: true,
+    head: [
+      ['link', { rel: 'icon', href: 'https://www.mcenahle.org.cn/video-org-cn-favicon.ico' }]
+    ],
+    editLink: {
+      pattern: 'https://github.com/mcenahle/video-site/edit/main/pages/:path',
+      text: '在 GitHub 上编辑此页'
+    },
+
     nav: [
       { text: '主页', link: '/' },
       { text: '视频展示', link: '/proj' },
@@ -31,37 +33,36 @@ export default defineConfig({
     ],
 
     sidebar: {
-  '/proj/': [
-    {
-      text: '视频展示（剪辑软件：DaVinci Resolve）',
-      collapsed: false,
-      items: [
-        { text: '初夏的记忆与天堂', link: '/proj/earlysummer-paradise' }
+      '/proj/': [
+        {
+          text: '视频展示（剪辑软件：DaVinci Resolve）',
+          collapsed: false,
+          items: [
+            { text: '初夏的记忆与天堂', link: '/proj/earlysummer-paradise' }
+          ]
+        },
+        {
+          text: '视频展示（剪辑软件：PR）',
+          collapsed: false,
+          items: [
+            { text: '去月球三部曲 - 完结', link: '/proj/end-to-the-moon-series' },
+            { text: '2025.6.23 上海游记影片', link: '/proj/2025.6.23-movie' },
+            { text: '杨逸 - 鹳羽', link: '/proj/guanyu-yangyi' },
+            { text: '挑战通过科目一', link: '/proj/pass-the-subject-1' },
+            { text: '2024年终影片', link: '/proj/2024-end-movie' }
+          ]
+        }
+      ],
+
+      '/copyright/': [
+        {
+          text: '著作权声明',
+          items: [
+            { text: '查看声明内容', link: '/copyright/' }
+          ]
+        }
       ]
     },
-    {
-      text: '视频展示（剪辑软件：PR）',
-      collapsed: false,
-      items: [
-        { text: '去月球三部曲 - 完结', link: '/proj/end-to-the-moon-series' },
-        { text: '2025.6.23 上海游记影片', link: '/proj/2025.6.23-movie' },
-        { text: '杨逸 - 鹳羽', link: '/proj/guanyu-yangyi' },
-        { text: '挑战通过科目一', link: '/proj/pass-the-subject-1' },
-        { text: '2024年终影片', link: '/proj/2024-end-movie' }
-      ]
-    }
-  ],
-
-  '/copyright/': [
-    {
-      text: '著作权声明',
-      items: [
-        { text: '查看声明内容', link: '/copyright/' }
-      ]
-    }
-  ]
-}
-
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/mcenahle' }
