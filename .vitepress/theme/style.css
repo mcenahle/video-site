@@ -1,3 +1,24 @@
+/*
+ * style.css
+ *
+ * 基于 GPL-3.0 协议的开源样式文件修改而成。
+ * 原始样式来源：https://www.travellings.cn
+ * 原始作者版权归属见原项目。
+ *
+ * 修改者：Mcenahle
+ * 修改日期：2025-08-02
+ * 仓库地址：https://github.com/mcenahle/video-site
+ *
+ * 本文件遵循 GNU General Public License v3.0 发布：
+ * https://www.gnu.org/licenses/gpl-3.0.html
+ *
+ * 您可以自由复制、修改、分发，但必须：
+ *  - 保留原始及修改者署名；
+ *  - 继续以 GPL-3.0 协议发布衍生版本；
+ *  - 不得擅自更换为其他协议或用于闭源项目。
+ */
+
+
 /**
  * Customize default theme styling by overriding CSS variables:
  * https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css
