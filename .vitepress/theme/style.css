@@ -223,3 +223,29 @@ a:hover {
   color: #2087E3 !important;
   text-decoration: underline;
 }
+
+/* 顶部导航栏当前激活链接 */
+.VPNavBar .VPNavBarMenuLink.active {
+  color: var(--vp-c-brand) !important;
+}
+
+/* 侧边栏当前激活链接 */
+.VPSidebarItem.is-active > .item,
+.VPSidebarItem .VPSidebarLink.active {
+  color: var(--vp-c-brand) !important;
+}
+
+.VPButton.VPButton--text {
+  color: var(--vp-c-brand) !important;
+}
+
+.VPButton.VPButton--text:hover {
+  color: var(--vp-c-brand-dark) !important;
+}
+.VPPageNav .pager-link {
+  color: var(--vp-c-brand) !important;
+}
+
+.VPPageNav .pager-link:hover {
+  color: var(--vp-c-brand-dark) !important;
+}
