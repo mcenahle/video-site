@@ -10,7 +10,7 @@ pr.mcenahle.org.cn 从2024年12月创立以来，历经2次改变（目前是第
 
 |视频名称|剪辑软件|可下载状态|
 |:--:|:--:|:--:|
-|2024年终影片|Adobe Premiere Pro|可下载|
+|[2024年终影片](/2024-end-movie)|Adobe Premiere Pro|可下载|
 |挑战通过科目一|Adobe Premiere Pro|不可下载|
 |杨逸 - 鹳羽|Adobe Premiere Pro|不可下载|
 |2025.6.23 上海游记影片|Adobe Premiere Pro|可下载|
