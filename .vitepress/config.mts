@@ -17,7 +17,7 @@ export default defineConfig({
   externalLinkIcon: true,
   lastUpdated: true,
   head: [
-    ['link', { rel: 'icon', href: '/proj/favicon.ico' }]
+    ['link', { rel: 'icon', href: 'https://www.mcenahle.org.cn/video-org-cn-favicon.ico' }]
   ],
   editLink: {
     pattern: 'https://github.com/mcenahle/video-site/edit/main/pages/:path',
