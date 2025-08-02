@@ -2,11 +2,15 @@
 
 版权所有：© 2025 Mcenahle。保留部分权利。
 
+:::INFO
+我的联系方式，即电子邮件地址为：[admin@mcenahle.sh.cn](mailto:admin@mcenahle.sh.cn)
+:::
+
 ## 🛠 网站源码
 
 本网站的全部源代码（包括页面结构、样式配置、构建脚本等），已在 [我的仓库](https://github.com/mcenahle/video-site) 开源，并遵循 [GNU GPL v3.0 许可协议](https://www.gnu.org/licenses/gpl-3.0.html)。
 
-你可以在遵守该协议的前提下，自由复制、修改、分发本项目代码，但需保留原始作者信息及许可证链接。如需商业使用或集成至闭源项目，请联系我获取授权：[admin@mcenahle.sh.cn](mailto:admin@mcenahle.sh.cn)。
+你可以在遵守该协议的前提下，自由复制、修改、分发本项目代码，但需保留原始作者信息及许可证链接。如需商业使用或集成至闭源项目，请联系我获取授权。
 
 本网站样式部分参考自 [开往](https://www.travellings.cn)，所用 `style.css` 文件已根据本站需求作出部分修改，原始文件与修改版本均遵循 GPL v3.0 协议。该样式文件仅用于页面视觉展示，不影响本站原创内容的著作权归属。
 
@@ -33,4 +37,4 @@
 
 ---
 
-如有版权问题，请通过邮箱 [admin@mcenahle.sh.cn](mailto:admin@mcenahle.sh.cn) 联系我，我会尽快处理。
+如有版权问题，请通过邮箱联系我，我会尽快处理。
