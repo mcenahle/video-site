@@ -34,7 +34,7 @@ export default defineConfig({
         text: '外站链接',
         items: [
           { text: '主页', link: 'https://www.mcenahle.org.cn' },
-          { text: 'API 服务', link: 'https://api.mcenahle.org.cn' },
+          { text: 'api 服务', link: 'https://api.mcenahle.org.cn' },
           { text: '电子邮件', link: 'https://mail.mcenahle.org.cn' },
           { text: '状态监控', link: 'https://status.mcenahle.org.cn' }
         ]
