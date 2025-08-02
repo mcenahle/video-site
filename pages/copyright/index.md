@@ -2,7 +2,7 @@
 
 版权所有：© 2025 Mcenahle。保留部分权利。
 
-:::INFO
+:::info
 我的联系方式，即电子邮件地址为：[admin@mcenahle.sh.cn](mailto:admin@mcenahle.sh.cn)
 :::
 
