@@ -4,7 +4,7 @@
 
 ## 🛠 网站源码
 
-本网站的全部源代码（包括页面结构、样式配置、构建脚本等），已在下列仓库开源，并遵循 [GNU GPL v3.0 许可协议](https://www.gnu.org/licenses/gpl-3.0.html) 发布于我的仓库。[链接](https://github.com/mcenahle/video-site)
+本网站的全部源代码（包括页面结构、样式配置、构建脚本等），已在[我的仓库]((https://github.com/mcenahle/video-site))开源，并遵循 [GNU GPL v3.0 许可协议](https://www.gnu.org/licenses/gpl-3.0.html)。
 
 你可以在遵守该协议的前提下，自由复制、修改、分发本项目代码，但需保留原始作者信息及许可证链接。如需商业使用或集成至闭源项目，请联系我获取授权：[admin@mcenahle.sh.cn](mailto:admin@mcenahle.sh.cn)。
 
