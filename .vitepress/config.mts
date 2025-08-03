@@ -29,6 +29,7 @@ export default defineConfig({
       { text: '主页', link: '/' },
       { text: '视频展示', link: '/proj' },
       { text: '著作权声明', link: '/copyright' },
+      { text: '本站公告', link: '/announcements' },
       { text: '现行正式版页面', link: 'https://video.mcenahle.org.cn' },
       {
         text: '外站链接',
@@ -68,6 +69,16 @@ export default defineConfig({
           text: '著作权声明',
           items: [
             { text: '查看声明内容', link: '/copyright/' }
+          ]
+        }
+      ],
+
+    '/announcements/': [
+        {
+          text: '本站公告',
+          items: [
+            { text: '本站公告列表', link: '/announcements/' },     
+            { text: '网站迁移公告', link: '/announcements/wangzhan-qianyi' }
           ]
         }
       ]
