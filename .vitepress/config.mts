@@ -28,8 +28,8 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '视频展示', link: '/proj' },
-      { text: '著作权声明', link: '/copyright' },
       { text: '本站公告', link: '/announcements' },
+      { text: '著作权声明', link: '/copyright' },
       { text: '现行正式版页面', link: 'https://video.mcenahle.org.cn' },
       {
         text: '外站链接',
