@@ -4,17 +4,17 @@
 
 pr.mcenahle.org.cn 从2024年12月创立以来，历经2次改变（目前是第3次），最终成为展示剪辑完成视频的站点。
 
-剪辑软件：[Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)；[达芬奇](https://www.blackmagicdesign.com/products/davinciresolve)。之后可能会拓展更多。
+剪辑软件：[Adobe Premiere Pro（又称 PR）](https://www.adobe.com/products/premiere.html)；[达芬奇](https://www.blackmagicdesign.com/products/davinciresolve)。之后可能会拓展更多。
 
 目前已经有6个视频项目，1个正在计划之中。
 
 |视频名称|剪辑软件|发布日期|可下载状态|
 |:--:|:--:|:--:|:--:|
-|[2024年终影片](/proj/2024-end-movie)|Adobe Premiere Pro|预览版：2024.12.23、正式版：2024.12.31|可下载|
-|[挑战通过科目一](/proj/pass-the-subject-1)|Adobe Premiere Pro|2025.2.16|不可下载|
-|[杨逸 - 鹳羽](/proj/guanyu-yangyi)|Adobe Premiere Pro|‎正式版：2025‎.3‎.10、改进：2025.3.18‎|不可下载|
-|[2025.6.23 上海游记影片](/proj/2025.6.23-movie)|Adobe Premiere Pro|2025.6.23|可下载|
-|[去月球三部曲 - 完结](/proj/end-to-the-moon-series)|Adobe Premiere Pro|2025.7.10|可下载|
+|[2024年终影片](/proj/2024-end-movie)|PR|预览版：2024.12.23、正式版：2024.12.31|可下载|
+|[挑战通过科目一](/proj/pass-the-subject-1)|PR|2025.2.16|不可下载|
+|[杨逸 - 鹳羽](/proj/guanyu-yangyi)|PR|‎正式版：2025‎.3‎.10、改进：2025.3.18‎|不可下载|
+|[2025.6.23 上海游记影片](/proj/2025.6.23-movie)|PR|2025.6.23|可下载|
+|[去月球三部曲 - 完结](/proj/end-to-the-moon-series)|PR|2025.7.10|可下载|
 |[初夏的记忆与天堂](/proj/earlysummer-paradise)|达芬奇|2025.7.18|可下载|
 |2025年终影片|——|——|正在计划|
 
