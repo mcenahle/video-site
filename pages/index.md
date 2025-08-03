@@ -19,6 +19,6 @@ features:
   - title: 使用本站视频说明
     details: 所下载的影片仅供个人学习与交流使用，严禁用于任何商业用途、传播、转载、修改或其他未经授权的用途。继续浏览本站，则视为你已经阅读并同意上述说明。
   - title: 此页面为 demo 页面
-    details: 此域名：https://demo.video.mcenahle.org.cn 正在建设。在完成之前，https://video.mcenahle.org.cn 为正式页面。
+    details: 此域名：https://demo.video.mcenahle.org.cn 已完成建设，并即将进行迁移。详见本站公告。在迁移完成之前，https://video.mcenahle.org.cn 为正式页面。
 ---
 
