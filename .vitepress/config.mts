@@ -46,14 +46,14 @@ export default defineConfig({
       '/proj/': [
         {
           text: '视频展示（剪辑软件：DaVinci Resolve）',
-          collapsed: true,
+          // collapsed: false,
           items: [
             { text: '初夏的记忆与天堂', link: '/proj/earlysummer-paradise' }
           ]
         },
         {
           text: '视频展示（剪辑软件：PR）',
-          collapsed: true,
+          // collapsed: false,
           items: [
             { text: '去月球三部曲 - 完结', link: '/proj/end-to-the-moon-series' },
             { text: '2025.6.23 上海游记影片', link: '/proj/2025.6.23-movie' },
