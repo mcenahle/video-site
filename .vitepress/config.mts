@@ -45,7 +45,7 @@ export default defineConfig({
     sidebar: {
       '/proj/': [
         {
-          text: '视频展示（剪辑软件：DaVinci Resolve）',
+          text: '视频展示（剪辑软件：达芬奇）',
           // collapsed: false,
           items: [
             { text: '初夏的记忆与天堂', link: '/proj/earlysummer-paradise' }
