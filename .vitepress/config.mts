@@ -77,7 +77,8 @@ export default defineConfig({
           text: '本站公告',
           items: [
             { text: '本站公告列表', link: '/announcements/' },     
-            { text: '网站迁移公告', link: '/announcements/wangzhan-qianyi' }
+            { text: '网站迁移公告', link: '/announcements/wangzhan-qianyi' },
+            { text: '剪辑的新视频即将采用新素材的公告', link: '/announcements/new-video-materials' }
           ]
         }
       ]
