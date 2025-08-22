@@ -4,7 +4,7 @@
 
 目前该项目正在计划之中。目前可公开的消息：
 
-- [高瞰的《去月球》系列游戏](https://www.freebirdgames.com) 确实不错。
+- [高瞰的《去月球》系列游戏](https://www.freebirdgames.com) 确实很不错。
 
 ## 下载
 该视频将于年底制作完成并公开。
