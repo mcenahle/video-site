@@ -44,6 +44,13 @@ export default defineConfig({
     sidebar: {
       '/proj/': [
         {
+          text: '正在计划的视频',
+          // collapsed: false,
+          items: [
+            { text: '2025年终影片', link: '/proj/2025-end-movie' }
+          ]
+        },
+       {
           text: '视频展示（剪辑软件：达芬奇）',
           // collapsed: false,
           items: [
