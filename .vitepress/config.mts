@@ -25,6 +25,19 @@ export default defineConfig({
       text: '在 GitHub 上编辑此页'
     },
 
+    docFooter: {
+      prev: "上一页",
+      next: "下一页",
+    },
+
+    darkModeSwitchLabel: "外观",
+    darkModeSwitchTitle: "切换到深色模式",
+    lightModeSwitchTitle: "切换到浅色模式",
+    sidebarMenuLabel: "目录",
+    returnToTopLabel: "返回顶部",
+    lastUpdatedText: "最后更新",
+    outlineTitle: "页面导航",
+
     nav: [
       { text: '主页', link: '/' },
       { text: '视频展示', link: '/proj' },
