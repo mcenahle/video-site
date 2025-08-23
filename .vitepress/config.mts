@@ -17,9 +17,9 @@ export default defineConfig({
     },
     externalLinkIcon: true,
     // lastUpdated: true,
-    // head: [
-    //  ['link', { rel: 'icon', href: 'https://www.mcenahle.org.cn/video-org-cn-favicon.ico' }]
-    // ],
+    head: [
+      ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ],
     editLink: {
       pattern: 'https://github.com/mcenahle/video-site/edit/main/pages/:path',
       text: '在 GitHub 上编辑此页'
@@ -36,6 +36,7 @@ export default defineConfig({
           { text: '主页', link: 'https://www.mcenahle.org.cn' },
           { text: 'api 服务', link: 'https://api.mcenahle.org.cn' },
           { text: '电子邮件', link: 'https://mail.mcenahle.org.cn' },
+          { text: '文档网站', link: 'https://www.shm.ac.cn' },
           { text: '状态监控', link: 'https://status.mcenahle.org.cn' }
         ]
       }
