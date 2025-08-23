@@ -18,7 +18,7 @@ export default defineConfig({
     externalLinkIcon: true,
     // lastUpdated: true,
     head: [
-      ['link', { rel: 'icon', href: '/assets/favicon.png' }]
+      ['link', { rel: 'icon', href: '/assets/favicon.ico' }]
     ],
     editLink: {
       pattern: 'https://github.com/mcenahle/video-site/edit/main/pages/:path',
