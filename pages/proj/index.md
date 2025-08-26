@@ -16,6 +16,7 @@ pr.mcenahle.org.cn 从2024年12月创立以来，历经2次改变（目前是第
 |[2025.6.23 上海游记影片](/proj/2025.6.23-movie)|PR|2025.6.23|可下载|
 |[去月球三部曲 - 完结](/proj/end-to-the-moon-series)|PR|2025.7.10|可下载|
 |[初夏的记忆与天堂](/proj/earlysummer-paradise)|达芬奇|2025.7.18|可下载|
+|[城南花已开 - 音频波形动画](/proj/chengnanhuayikai)|AE|2025.8.26|可下载|
 |[2025年终影片](/proj/2025-end-movie) <Badge type="warning" text="实验性" />|——|——|正在计划|
 
 ::: info 著作权保护声明
