@@ -6,7 +6,7 @@ pr.mcenahle.org.cn 从2024年12月创立以来，历经2次改变（目前是第
 
 剪辑软件：[Adobe Premiere Pro（又称：PR）](https://www.adobe.com/products/premiere.html)；[DaVinci Resolve（又称：达芬奇）](https://www.blackmagicdesign.com/products/davinciresolve)。制作软件：[Adobe After Effects（又称：AE）](https://helpx.adobe.com/cn/after-effects/get-started.html)。之后可能会拓展更多。
 
-目前已经有6个视频项目，1个正在计划之中。
+目前已经有7个视频项目，1个正在计划之中。
 
 |视频名称|剪辑软件|发布日期|可下载状态|
 |:--:|:--:|:--:|:--:|
