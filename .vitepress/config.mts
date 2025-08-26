@@ -64,6 +64,13 @@ export default defineConfig({
             { text: '2025年终影片', link: '/proj/2025-end-movie' }
           ]
         },
+        {
+          text: '视频展示（制作软件：AE）',
+          // collapsed: false,
+          items: [
+            { text: '城南花已开 - 音频波形动画', link: '/proj/chengnanhuayikai' }
+          ]
+        },
        {
           text: '视频展示（剪辑软件：达芬奇）',
           // collapsed: false,
