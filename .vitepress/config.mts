@@ -44,17 +44,7 @@ export default defineConfig({
       { text: '主页', link: '/' },
       { text: '视频展示', link: '/proj' },
       { text: '本站公告', link: '/announcements' },
-      { text: '著作权声明', link: '/copyright' },
-      {
-        text: '外站链接',
-        items: [
-          { text: '主页', link: 'https://www.mcenahle.org.cn' },
-          { text: 'api 服务', link: 'https://api.mcenahle.org.cn' },
-          { text: '电子邮件', link: 'https://mail.mcenahle.org.cn' },
-          { text: '文档网站', link: 'https://www.shm.ac.cn' },
-          { text: '状态监控', link: 'https://status.mcenahle.org.cn' }
-        ]
-      }
+      { text: '著作权声明', link: '/copyright' }
     ],
 
     sidebar: {
