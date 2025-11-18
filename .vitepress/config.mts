@@ -74,8 +74,8 @@ export default defineConfig({
           text: '视频展示（剪辑软件：PR）',
           // collapsed: false,
           items: [
-            { text: '去月球三部曲 - 完结', link: '/proj/end-to-the-moon-series' },
             { text: '2025.11.18 豫园 Vlog', link: '/proj/2025.11.18-yuyuan-garden-vlog' },
+            { text: '去月球三部曲 - 完结', link: '/proj/end-to-the-moon-series' },
             { text: '2025.6.23 上海游记影片', link: '/proj/2025.6.23-movie' },
             { text: '杨逸 - 鹳羽', link: '/proj/guanyu-yangyi' },
             { text: '挑战通过科目一', link: '/proj/pass-the-subject-1' },
