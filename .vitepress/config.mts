@@ -18,7 +18,6 @@ export default defineConfig({
     logo: '/favicon.ico',
     lastUpdated: true,
     externalLinkIcon: true,
-    // lastUpdated: true,
     head: [
       ['link', { rel: 'icon', href: '/assets/favicon.ico' }],
       ['meta', { name: 'theme-color', content: '#414afe' }]
@@ -54,7 +53,7 @@ export default defineConfig({
           text: '正在计划的视频',
           // collapsed: false,
           items: [
-            { text: '2025年终影片', link: '/proj/2025-end-movie' }
+            // { text: '2025年终影片', link: '/proj/2025-end-movie' }
           ]
         },
         {

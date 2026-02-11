@@ -2,9 +2,9 @@
 
 ## 介绍
 
-一段回忆，一段历程。新历程，继续开始。
-
 这是一段6月17号做的音频波形动画，首次使用 [Adobe After Effects](https://helpx.adobe.com/cn/after-effects/get-started.html) 制作。
+
+当时的我可没想到，在做完之后的1个月后，就开始了 [2025年终总结](https://www.mcenahle.org.cn/nzzj/2025.html) 中所说的“一个部分”。
 
 ## 下载
 

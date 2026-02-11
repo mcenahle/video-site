@@ -6,7 +6,7 @@ pr.mcenahle.org.cn 从2024年12月创立以来，历经2次改变（目前是第
 
 剪辑软件：[Adobe Premiere Pro（又称：PR）](https://www.adobe.com/products/premiere.html)；[DaVinci Resolve（又称：达芬奇）](https://www.blackmagicdesign.com/products/davinciresolve)。制作软件：[Adobe After Effects（又称：AE）](https://helpx.adobe.com/cn/after-effects/get-started.html)。之后可能会拓展更多。
 
-目前已经有8个视频项目，1个正在计划之中。
+目前已经有8个视频项目。
 
 |视频名称|剪辑/制作软件|发布日期|可下载状态|
 |:--:|:--:|:--:|:--:|
@@ -18,7 +18,6 @@ pr.mcenahle.org.cn 从2024年12月创立以来，历经2次改变（目前是第
 |[初夏的记忆与天堂](/proj/earlysummer-paradise)|达芬奇|2025.7.18|可下载|
 |[城南花已开 - 音频波形动画](/proj/chengnanhuayikai)|AE|2025.8.26、制作日期：2025.6.17|可下载|
 |[2025.11.18 豫园 Vlog](/proj/2025.11.18-yuyuan-garden-vlog)|PR|2025.11.18|可下载|
-|[2025年终影片](/proj/2025-end-movie) <Badge type="warning" text="实验性" />|——|——|正在计划|
 
 ::: tip 著作权策略
 所下载的影片仅供个人学习与交流使用，严禁用于任何商业用途、传播、转载、修改或其他未经授权的用途。继续浏览本站，则视为你已经阅读并同意上述说明。
