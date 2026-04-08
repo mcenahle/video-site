@@ -53,7 +53,7 @@ export default defineConfig({
           text: '正在计划的视频',
           // collapsed: false,
           items: [
-            // { text: '2025年终影片', link: '/proj/2025-end-movie' }
+            { text: '猫 meme', link: '/proj/cat-meme' },
           ]
         },
         {
