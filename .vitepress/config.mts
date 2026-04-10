@@ -53,7 +53,7 @@ export default defineConfig({
           text: '正在计划的视频',
           // collapsed: false,
           items: [
-            { text: '猫 meme', link: '/proj/cat-meme' },
+            // { text: '猫 meme', link: '/proj/cat-meme' },
           ]
         },
         {
@@ -74,6 +74,7 @@ export default defineConfig({
           text: '视频展示（剪辑软件：PR）',
           // collapsed: false,
           items: [
+            { text: '猫 meme', link: '/proj/cat-meme' },
             { text: '2025.11.18 豫园 Vlog', link: '/proj/2025.11.18-yuyuan-garden-vlog' },
             { text: '去月球三部曲 - 完结', link: '/proj/end-to-the-moon-series' },
             { text: '2025.6.23 上海游记影片', link: '/proj/2025.6.23-movie' },
